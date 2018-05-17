@@ -2,7 +2,7 @@
  * Copyright (c) Bogdan Andrei Alexandru - 2017.
  */
 
-package com.lexu.newsreaderapp.models.enums;
+package com.lexu.newsreaderapp.models.response;
 
 import android.support.annotation.Nullable;
 

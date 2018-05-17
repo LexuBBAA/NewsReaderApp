@@ -18,7 +18,7 @@ import com.lexu.newsreaderapp.common.views.custom.toolbar.MainToolbar_;
 import com.lexu.newsreaderapp.common.views.custom.toolbar.RefreshToolbar_;
 import com.lexu.newsreaderapp.common.views.custom.toolbar.callbacks.IBaseToolbarCallback;
 import com.lexu.newsreaderapp.common.views.interfaces.IUserInteraction;
-import com.lexu.newsreaderapp.models.enums.ToolbarType;
+import com.lexu.newsreaderapp.common.views.custom.toolbar.ToolbarType;
 
 import org.androidannotations.annotations.EActivity;
 

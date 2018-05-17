@@ -10,7 +10,7 @@ import android.os.Parcelable;
 import android.support.annotation.NonNull;
 
 import com.google.gson.annotations.SerializedName;
-import com.lexu.newsreaderapp.models.enums.Type;
+import com.lexu.newsreaderapp.models.response.Type;
 
 abstract class BaseModel implements Parcelable {
 
